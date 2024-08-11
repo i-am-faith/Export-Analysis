@@ -1,6 +1,6 @@
 # Store-Analysis-Excel
-<h3>Got a store data from web , Transformed it into valuable insights for company, using Data Analysis on Excel.</h3>
+<h3>Got a store data from web , Transformed it into valuable insights for company, using Data Analysis on MS Power BI</h3>
 
 <hr>
 
-<img src="dashboard.jpg" alt="dashboard">
+<img src="dashboard.png" alt="dashboard">
